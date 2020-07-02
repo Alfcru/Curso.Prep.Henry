@@ -1,0 +1,20 @@
+Conceptos de :
+
+*Variable: Una variable en JavaScript es un contenedor de valores donde se pueden guardar distintos tipos como cadena de caracteres
+		enteros, booleanos etc. no son necesarias declararlas segun su tipo sino que son dinamicas.
+
+*Strings: Es una cadena de caracteres, comienza en comillas simples o dobles ('palabra ', "palabra2 "), es como una lista donde se
+		puede concatenar valores mediante "+" tambien se puede usar funciones internas como .lenght.
+
+*Funciones(argumentos, return): Son sub programas a las cuales se las puede llamar mediante el nombre de funcion las cuales
+		pueden devolver un valor o nada, pueden resivir parametros(argumentos) o no, las mismas tienen una funcion interna que se
+		 llama	return que al llegar a esa sentencia termina la funcion y devuelve su valor independientemente de que alla terminado 
+		de recorrer todas las sentencias.
+
+*Declaraciones if: Las declaraciones if son sentencias condicionales en la cuales si pasa algo continua con su camino o sino
+		reccorre otro camino o no, serian condicionales simples o compuestos.
+
+*Valores booleanos(true, false): Es un tipo de variable la cual solo puede tomar 2 valores que serian verdadero o falso
+		segun su asignacion o la operacion que sea ejecutada, tambien se le puede hacer operaciones con las mismas.
+
+Alfredo Cruz.
