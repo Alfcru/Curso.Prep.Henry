@@ -1,0 +1,7 @@
+Curso.Perp.Henry/04-JS-III
+
+Definicion
+
+Array: en Js un array es una coleccion de valores de varios tipos no esta restringido a uno solo y se le puede
+	dar tama'o sin valores el cual los definira como undefined, tiene tambien a su vez funciones para manipular
+	como push, pop, unshift shift.
