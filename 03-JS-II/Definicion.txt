@@ -1,0 +1,13 @@
+Homework 03-js-II
+
+Conceptos:
+
+for: Es un bucle de iteracion que tiene una variable de control i e itera hasta su N o su dimension del ciclo
+	este bucle siempre itera hasta el final si o si .
+
+%%: Operador logico 'and' o y es verdad siempre que los dos sean verdaderos o sus operadores.
+
+||: Operador logico 'or' siempre es verdadero si solo un operador es verdadero, si todos sus operadores son falsos
+	recien es falso.
+
+!: Operador logico 'negador' niega la condicion o los parametros logicos que esten acompa;ados.
